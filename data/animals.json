@@ -126,6 +126,28 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Bob",
+      "species": "Spider Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Bob",
+      "species": "Spider Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
