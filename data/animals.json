@@ -136,18 +136,20 @@
         "zany",
         "goofy"
       ],
-      "id": "13"
+      "id": "14"
     },
     {
-      "name": "Bob",
-      "species": "Spider Monkey",
-      "diet": "herbivore",
+      "name": "Terry",
+      "species": "Armadillo",
+      "diet": "carnivore",
       "personalityTraits": [
         "hungry",
         "zany",
+        "anxious",
+        "loving",
         "goofy"
       ],
-      "id": "14"
+      "id": "15"
     }
   ]
 }
